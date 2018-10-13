@@ -3,7 +3,7 @@ import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp({
   
-    apiKey: "----------------------------------",
+    apiKey: "------------------------",
     authDomain: "catch-of-the-day-680fb.firebaseapp.com",
     databaseURL: "https://catch-of-the-day-680fb.firebaseio.com"
 });
